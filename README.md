@@ -1,4 +1,5 @@
-# Application_pour_systeme_informations PRDICT’IF est une application de voyance par téléphone permettant de mettre en
+# Application_pour_systeme_informations PRDICT’IF 
+PREDICT'IF est une application de voyance par téléphone permettant de mettre en
 contact des clients avec des employés qui endossent le rôle de voyant. Le service
 effectue la liaison entre le client et l’employé automatiquement à partir de la requête
 du client. 
